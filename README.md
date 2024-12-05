@@ -59,11 +59,11 @@ dependencies:
 ```
 
 #### Tecnologias Utilizadas
-Flutter Bloc: Gestión de estados reactivos.
-Hydrated Bloc: Persistencia local de estados.
-GetIt: Inyección de dependencias.
-Firebase Core y Auth: Autenticación y servicios de backend.
-Path Provider: Acceso al sistema de archivos del dispositivo.
+- Flutter Bloc: Gestión de estados reactivos.
+- Hydrated Bloc: Persistencia local de estados.
+- GetIt: Inyección de dependencias.
+- Firebase Core y Auth: Autenticación y servicios de backend.
+- Path Provider: Acceso al sistema de archivos del dispositivo.
 
 
 ### Video
