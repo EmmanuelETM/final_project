@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAts6h0sgjLu-VmdLaGlDbbKlPcqiCOlmU',
-    appId: '1:89623894642:android:f68ae0a9ae9a0c0dde80eb',
+    appId: '1:89623894642:android:9305603d8ec492d4de80eb',
     messagingSenderId: '89623894642',
     projectId: 'sp-clone-cdb9d',
     storageBucket: 'sp-clone-cdb9d.firebasestorage.app',
