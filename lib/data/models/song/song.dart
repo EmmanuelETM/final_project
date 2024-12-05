@@ -27,7 +27,6 @@ class SongModel {
 }
 
 extension SongModelX on SongModel {
-
   SongEntity toEntity() {
     return SongEntity(
       title: title!,
